@@ -518,11 +518,11 @@ Follow these steps to create the Power BI dashboard:
 
 ![Create Dashboard further steps.](media/Create-Dashboard1.png)
 
-22. Inside the report 'CDP Vision Report' **select** 'Pillar 1 Before'.
+22. Inside the report 'CDP Vision Report' **select** 'Pillar 1 May'.
 
-![Select Pillar 1 before.](media/Selecting-pillar.png)
+![Select Pillar 1 May.](media/Selecting-pillar.png)
 
-23. **Click** on '..' at the top of the right corner.
+23. **Click** on '...' at the top of the right corner.
 
 24. **Select** the 'Pin to dashboard' option from the drop-down menu.
 
@@ -536,12 +536,161 @@ Follow these steps to create the Power BI dashboard:
 
 ![Pin to dashboard further steps.](media/Pin-to-dashboard.png)
 
+28. Similarly, **pin** the others tiles to the Dashboard
 
-28. **Similarly pin the remaining visuals by referring to below table:**
+	![Pin other dashboards.](media/power-bi-report-17.png)
+	
+29. **Select** workpace created in [Task 2](#task-2-power-bi-workspace-creation) in the left pane.
 
-![KPI table.](media/KPI-Table.png)
+	![Select Workspace.](media/power-bi-report-18.png)
+	
+30. **Open** ‘Taxpayer Client Services Report’ report.
+
+	![Select Workspace.](media/power-bi-report-19.png)
+	
+31. **Click** on Images page
+
+32. **Click** on Edit.
+
+	![Click on edit.](media/power-bi-report-20.png)
+	
+33. **Hover** on Deep Dive chicklet and **click** pin button.
+
+	![Hover and Click.](media/power-bi-report-21.png)
+	
+34. Select the ‘CEO Dashboard - May
+![image](https://user-images.githubusercontent.com/54718890/163946877-46fbd5cb-0c13-42e0-ab24-919d50be5467.png)’ from existing dashboard list and **click** on pin.
+
+35. Similarly pin rest of the images from Images of the  Taxpayer Client Services Report’ report.
+	
+	![Select Dashboard and Click Pin.](media/power-bi-report-22.png)
+	
+36. **Go back** to the ‘CEO Dashboard - May
+![image](https://user-images.githubusercontent.com/54718890/163946934-f322e5b4-1d19-4fd2-87ae-e32b39f80985.png)’ dashboard.
+
+	![Go back to Dashboard.](media/power-bi-report-23.png)
+	
+To hide title and subtitle for all the images that you have pined above. Please do the following:
+
+37. Hover on the chiclet and **Click** on ellipsis ‘More Options’ of the image you selected.
+
+38. **Click** on ‘Edit details’.
+
+	![Click on Edit Details.](media/power-bi-report-24.png)
+	
+39. **Uncheck** ‘Display title and subtitle’.
+
+40. **Click** on ‘Apply’.
+
+41. **Repeat** Step 38 to 41 for all image tiles.
+
+	![Click apply and repeat.](media/power-bi-report-25.png)
+	
+42. After disabling ‘Display title and subtitle’ for all images, **resize** and **rearrange** the top images tiles as shown in the screenshot. 
+	
+	![Resize and Rearrange.](media/power-bi-report-26.png)
+	
+43. Similarly pin left image tiles from ‘page 1’ of chicklets report to the Taxpayer Client Services Commissioner Dashboard Before dashboard.
+
+44. **Resize** and **rearrange** the left images tiles as shown in the screenshot. Resize the KPI tile to 1x2. Resize the Deep Dive to 1x4. Resize the logo to 1x1 size; resize other vertical tiles to 2x1 size.  
+
+	![Resize and Rearrange again.](media/power-bi-report-27.png)
+	
+	
+45. You will see some KPIs or charts like this KPI with title and subtitle. 1. Title, 2. Subtitle.
+	
+	![Will see some KPIs.](media/power-bi-report-28.png)
+	
+46. **Hover** over the cards and charts and go to more options (…)
+
+47. **Click** on Edit Details.
+	
+	![Hover and Click on Edit Details.](media/power-bi-report-29.png)
+	
+48. You will see something like this picture where you can add subtitle.
+
+	![Will see.](media/power-bi-report-30.png)
+	
+49. The Dashboard **CEO Dashboard - May
+![image](https://user-images.githubusercontent.com/54718890/163947186-a2aeeec9-5691-44cc-9fbb-7e009392ee07.png)** should finally look like this. Table in following row indicates which KPI’s need to be pinned from which report to achieve this final look.
+
+	![Final Look.](media/power-bi-report-31.png)
+	
+50. **Refer** to this table while pinning rest of the tiles to the dashboard.
+
+	![Table.](media/power-bi-table-1.png)
+	
+51. Here is the list of Dashboards you have to create for TRF and the report to migrate to prod environment. You will see the necessary details for the same below. You must refer to the [Excel](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement/blob/fintax/fintaxdemo/KPIS%20Dashboards%20mapping.xlsx) file for pinning the tiles to the dashboard.
+
+	![Final Look.](media/power-bi-report-32.png)
+	
+52. **CEO Dashboard - May** should look like this. Following are the details of tiles for the same.
+
+	![Final Look.](media/power-bi-report-33.png)
+	
+53. **Refer** to this table while pinning rest of the tiles to the dashboard.	
+
+	![Table.](media/power-bi-table-2.png)
+
+54. **CEO Dashboard - Sep** should look like this. Following are the details of tiles for the same.
+![image](https://user-images.githubusercontent.com/54718890/163947564-a87062ce-0bce-4f8f-a10d-bb444c7ba8be.png)
 
 	
+	![Final Look.](media/power-bi-report-34.png)
+	
+55. **Refer** to this table while pinning rest of the tiles to the dashboard.	
+
+	![Table.](media/power-bi-table-3.png)
+
+56. **CEO Dashboard - Oct** should look like this. Following are the details of tiles for the same.
+![image](https://user-images.githubusercontent.com/54718890/163947624-f215e348-f121-48af-8f3a-bfb3f6c480e2.png)
+
+
+	![Final Look.](media/power-bi-report-35.png)
+	
+57. **Refer** to this table while pinning rest of the tiles to the dashboard.	
+
+	![Table.](media/power-bi-table-4.png)
+
+58. **CEO Dashboard - Nov** Dashboard should look like this. 
+![image](https://user-images.githubusercontent.com/54718890/163947731-72381188-9844-48b6-8b78-10d8a52d779c.png)
+
+
+	![Final Look.](media/power-bi-report-36.png)
+	
+59. **Refer** to this table while pinning rest of the tiles to the dashboard.
+
+	![Table.](media/power-bi-table-5.png)
+	
+60. **CEO Dashboard - Dec** Dashboard should look like this.
+![image](https://user-images.githubusercontent.com/54718890/163947731-72381188-9844-48b6-8b78-10d8a52d779c.png)
+
+
+	![Final Look.](media/power-bi-report-36.png)
+	
+59. **Refer** to this table while pinning rest of the tiles to the dashboard.
+
+	![Table.](media/power-bi-table-5.png)
+	
+61. **ADX Dashboard** Dashboard should look like this.
+![image](https://user-images.githubusercontent.com/54718890/163948010-5b55fdfe-dcad-4e46-b3d4-764e5b3f9597.png)
+
+62. **Refer** to this table while pinning rest of the tiles to the dashboard.
+
+63.  **ESG Dashboard** Dashboard should look like this.
+![image](https://user-images.githubusercontent.com/54718890/163948177-92927ed0-3133-4ea0-a4f7-398722069690.png)
+
+64. **Refer** to this table while pinning rest of the tiles to the dashboard.
+
+	![Table.](media/power-bi-table-5.png)
+	
+65.  **Finance Dashboard** Dashboard should look like this.
+![image](https://user-images.githubusercontent.com/54718890/163948493-60497a1c-7092-4e91-af20-32e7ca90f7aa.png)
+
+66.**Refer** to this table while pinning rest of the tiles to the dashboard.
+
+	![Table.](media/power-bi-table-5.png)
+
 ### Steps to create Real time report
 
 
